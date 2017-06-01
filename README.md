@@ -1,7 +1,47 @@
+<h1>AsyncDisplayKit has been moved and renamed: <a href="https://github.com/texturegroup/texture/">Texture</a></h1>
+<a href="https://medium.com/@Pinterest_Engineering/introducing-texture-a-new-home-for-asyncdisplaykit-e7c003308f50"><img src="https://github.com/TextureGroup/Texture/raw/master/docs/static/images/logo.png" alt="Texture Logo" /></a>
+<h2 style="border-bottom:none !important"><a href="https://medium.com/@Pinterest_Engineering/introducing-texture-a-new-home-for-asyncdisplaykit-e7c003308f50">Learn more here</a></h2>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 ![AsyncDisplayKit](https://github.com/AsyncDisplayKit/Documentation/raw/master/docs/static/images/logo.png)
 
-[![Apps Using](https://img.shields.io/badge/Apps%20Using%20ASDK-%3E4,974-28B9FE.svg)](http://cocoapods.org/pods/AsyncDisplayKit)
-[![Downloads](https://img.shields.io/badge/Total%20Downloads-%3E512,000-28B9FE.svg)](http://cocoapods.org/pods/AsyncDisplayKit)
+[![Apps Using](https://img.shields.io/cocoapods/at/AsyncDisplayKit.svg?label=Apps%20Using%20ASDK&colorB=28B9FE)](http://cocoapods.org/pods/AsyncDisplayKit)
+[![Downloads](https://img.shields.io/cocoapods/dt/AsyncDisplayKit.svg?label=Total%20Downloads&colorB=28B9FE)](http://cocoapods.org/pods/AsyncDisplayKit)
 
 [![Platform](https://img.shields.io/badge/platforms-iOS%20%7C%20tvOS-orange.svg)](http://AsyncDisplayKit.org)
 [![Languages](https://img.shields.io/badge/languages-ObjC%20%7C%20Swift-orange.svg)](http://AsyncDisplayKit.org)
